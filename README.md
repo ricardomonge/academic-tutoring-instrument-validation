@@ -1,4 +1,4 @@
-# Python and R Scripts for the Validation of the Academic Tutoring Perception Scale (ATPS) in Chilean University Students
+# Data, Python and R Scripts for the Validation of the Academic Tutoring Perception Scale (ATPS) in Chilean University Students
 
 This repository contains Python and R scripts, along with anonymized datasets, used in the development and psychometric validation of the **Academic Tutoring Perception Scale (ATPS)** for higher education students in Chile.
 
@@ -89,7 +89,11 @@ install.packages(c(
 
 ## 🔒 Data Provenance and Ethical Compliance
 
-All participants provided informed consent to use their data for academic research purposes. The study was conducted under the ethical standards of the Universidad de Las Américas. All data are fully anonymized and made available for transparency and reproducibility.
+The datasets in this repository were collected as part of a research project aimed at the Development and Psychometric Validation of the Academic Tutoring Perception Scale (ATPS) for higher education students in Chile.
+
+All participants were university students who voluntarily completed the instrument and provided informed consent for the use of their data for academic research purposes. Data collection adhered to institutional ethical guidelines for research involving human subjects.
+
+All data are fully anonymized and provided solely for academic transparency and replication.
 
 ---
 
@@ -103,4 +107,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you use this repository or its contents, please cite the corresponding article:
 
-> Díaz-Torres, B., Monge-Rogel, R., Gallardo-Caballero, M., & Reyes-Pastrian, C. (2025). *Development and Psychometric Validation of the Academic Tutoring Perception Scale (ATPS) for Higher Education Students in Chile*.
+**APA:**
+
+> Díaz-Torres, B., Monge-Rogel, R., Gallardo-Caballero, M., & Reyes-Pastrian, C. (2025). *Data and R Scripts for Development and Psychometric Validation of the Academic Tutoring Perception Scale (ATPS) for Higher Education Students in Chile*.
