@@ -1,0 +1,19 @@
+sexo,grado_academico,especializacion,experiencia_profesional,anios_experiencia,exp_valid_inst
+Male,Master,Higher Education,Teaching,33,Yes
+Female,Master,Statistics,Teaching,16,Yes
+Female,Master,Higher Education,Teaching,34,Yes
+Male,Master,Mathematical Education,Teaching,11,Yes
+Female,Master,Higher Education,Teaching,13,Yes
+Male,Master,Mathematical Education,Teaching,12,Yes
+Female,Master,Statistics,Teaching,10,Yes
+Male,PhD,Mathematical Education,Research,9,Yes
+Female,Master,Statistics,Teaching,10,No
+Male,Master,Higher Education,Teaching,22,Yes
+Male,Master,Higher Education,Teaching,9,Yes
+Female,Master,Higher Education,Teaching,12,Yes
+Female,Master,Mathematical Education,Teaching,18,Yes
+Male,PhD,Higher Education,Research,10,Yes
+Female,PhD,Higher Education,Research,10,Yes
+Male,Master,Higher Education,Teaching,15,Yes
+Female,PhD,Higher Education,Research,20,Yes
+Female,PhD,Higher Education,Research,11,Yes
