@@ -109,4 +109,25 @@ If you use this repository or its contents, please cite the corresponding articl
 
 **APA:**
 
-> Díaz-Torres, B., Monge-Rogel, R., Gallardo-Caballero, M., & Reyes-Pastrian, C. (2025). *Data and R Scripts for Development and Psychometric Validation of the Academic Tutoring Perception Scale (ATPS) for Higher Education Students in Chile*.
+> Díaz-Torres, B., Monge-Rogel, R., Gallardo-Caballero, M., & Reyes-Pastrián, C. (2025). Data, Python and R Scripts for the Validation of the Academic Tutoring Perception Scale (ATPS) in Chilean University Students (v0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16789795
+
+**BibTeX:**
+
+```bibtex
+@dataset{diaz_torres_2025_16789795,
+  author       = {Díaz-Torres, Bárbara and
+                  Monge-Rogel, Ricardo and
+                  Gallardo-Caballero, Mauricio and
+                  Reyes-Pastrián, Celeste},
+  title        = {Data, Python and R Scripts for the Validation of
+                   the Academic Tutoring Perception Scale (ATPS) in
+                   Chilean University Students
+                  },
+  month        = aug,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v0.0.1},
+  doi          = {10.5281/zenodo.16789795},
+  url          = {https://doi.org/10.5281/zenodo.16789795},
+}
+```
