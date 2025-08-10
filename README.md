@@ -2,6 +2,7 @@
 
 This repository contains Python and R scripts, along with anonymized datasets, used in the development and psychometric validation of the **Academic Tutoring Perception Scale (ATPS)** for higher education students in Chile.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16789795.svg)](https://doi.org/10.5281/zenodo.16789795)
 ---
 
 ## 📁 Repository Structure
