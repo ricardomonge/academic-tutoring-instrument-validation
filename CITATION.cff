@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Díaz-Torres"
+  given-names: "B."
+  orcid: "https://orcid.org/0009-0007-6586-2428"
+- family-names: "Monge-Rogel"
+  given-names: "Ricardo"
+  orcid: "https://orcid.org/0000-0001-5254-2504"
+- family-names: "Gallardo-Caballero"
+  given-names: "M."
+  orcid: "https://orcid.org/0000-0001-7791-2479"
+- family-names: "Reyes-Pastrián"
+  given-names: "C."
+  orcid: "https://orcid.org/0000-0002-3977-8739"
+title: "Data, Python and R Scripts for the Validation of the Academic Tutoring Perception Scale (ATPS) in Chilean University Students"
+type: dataset
+version: 0.0.1
+doi: 10.5281/zenodo.16789795
+date-released: 2025-01-01
+url: "https://doi.org/10.5281/zenodo.16789795"
