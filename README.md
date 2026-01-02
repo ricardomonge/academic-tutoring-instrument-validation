@@ -5,7 +5,7 @@ This repository contains Python and R scripts, along with anonymized datasets, u
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16789795.svg)](https://doi.org/10.5281/zenodo.16789795)
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                              # Contains anonymized datasets
@@ -19,14 +19,14 @@ This repository contains Python and R scripts, along with anonymized datasets, u
 
 ---
 
-## 📊 Description of Scripts
+## Description of Scripts
 
 - `aiken_v_analysis.ipynb`: Computes Aiken’s V coefficient and confidence intervals to assess content validity of items, based on expert ratings.
 - `Psychometric_Properties.R`: Conducts exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and computes psychometric indicators such as reliability.
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 | File                      | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
@@ -38,11 +38,11 @@ All datasets are fully anonymized and comply with ethical and institutional rese
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 To reproduce the analyses, ensure you have the following:
 
-### 🐍 Python (for content validity)
+### Python (for content validity)
 - `pandas`
 - `matplotlib`
 - `tabulate`
@@ -53,7 +53,7 @@ Install using:
 pip install pandas matplotlib tabulate
 ```
 
-### 🧠 R (for factor analysis)
+### R (for factor analysis)
 ```r
 install.packages(c(
   "tidyverse", "readxl", "gtsummary", "lavaan", "psych",
@@ -63,7 +63,7 @@ install.packages(c(
 
 ---
 
-## ▶️ How to Reproduce the Analyses
+## How to Reproduce the Analyses
 
 1. Clone or download this repository.
 2. Place the `/data` folder in your working directory.
@@ -74,7 +74,7 @@ install.packages(c(
 
 ---
 
-## 👥 Authors and Affiliations
+## Authors and Affiliations
 
 - **Bárbara Díaz-Torres**¹  
 - **Ricardo Monge-Rogel**²³ *(Corresponding author: rmonge@udla.cl)*  
@@ -88,7 +88,7 @@ install.packages(c(
 
 ---
 
-## 🔒 Data Provenance and Ethical Compliance
+## Data Provenance and Ethical Compliance
 
 The datasets in this repository were collected as part of a research project aimed at the Development and Psychometric Validation of the Academic Tutoring Perception Scale (ATPS) for higher education students in Chile.
 
@@ -98,13 +98,13 @@ All data are fully anonymized and provided solely for academic transparency and 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this repository or its contents, please cite the corresponding article:
 
